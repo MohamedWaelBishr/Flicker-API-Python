@@ -1,6 +1,7 @@
-# Flicker-API-Python
+![Flickr Logo](hhttps://upload.wikimedia.org/wikipedia/commons/9/9b/Flickr_logo.png)
+# Flickr-API-Python
 
-Flicker API Using Python Can Use In Gather Datasets
+Flickr API Using Python Can Use In Gather Datasets
 
 ## Getting Started
 
@@ -47,7 +48,7 @@ What things you need to install the software and how to install them
 
 ## Authors
 
-* **Mohamed Wael Bishr** - *Initial work* - [Flicker API](https://github.com/MohamedWaelBishr/Flicker-API-Python/)
+* **Mohamed Wael Bishr** - *Initial work* - [Flickr API](https://github.com/MohamedWaelBishr/Flickr-API-Python/)
 
 
 ## License
