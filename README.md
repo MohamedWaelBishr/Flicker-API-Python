@@ -1,4 +1,4 @@
-![Flickr Logo](hhttps://upload.wikimedia.org/wikipedia/commons/9/9b/Flickr_logo.png)
+![Flickr Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Flickr_logo.png)
 # Flickr-API-Python
 
 Flickr API Using Python Can Use In Gather Datasets
